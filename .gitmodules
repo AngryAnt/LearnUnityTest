@@ -1,0 +1,3 @@
+[submodule "Assets/Learn"]
+	path = Assets/Learn
+	url = https://angryant@github.com/AngryAnt/Learn.git
